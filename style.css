@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.container {
+    margin-top: 20px;
+}
+.details {
+    background-color: #343a40;
+    color: white;
+    padding: 7px;
+}
+#btnst {
+    border-radius: 0px;
+    padding: 10px 20px;
+    font-weight: bold;
+}
+.tablest {
+    margin-top: 40px;
+}
